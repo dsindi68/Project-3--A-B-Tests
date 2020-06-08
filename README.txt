@@ -1,3 +1,7 @@
+• Title
+  Analyze A/B Test Results
+•Description
+  Analyze A/B Test Results for Udacity data analyst course 
 •Prerequisites
   Nothing since I am using Udacity 
 •Description 
